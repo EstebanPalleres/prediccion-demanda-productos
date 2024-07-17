@@ -21,7 +21,7 @@ He desarrollado un modelo que predice la demanda de productos utilizando varias 
   - RMSE: 0.18
 - El modelo LSTM logró un loss de 0.0320.
 
-## Conclusión Ejecutiva
+## Conclusión
 
 El modelo desarrollado puede predecir la demanda de productos con una precisión razonable. Las predicciones ayudan a optimizar el inventario y mejorar la planificación de la cadena de suministro, tomando decisiones más informadas basadas en datos.
 
